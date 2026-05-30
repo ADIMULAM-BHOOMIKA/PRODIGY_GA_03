@@ -24,4 +24,6 @@ This project implements a simple text generation algorithm using Markov Chains i
 Generated Text:
 Artificial Intelligence helps in automation. Automation improves productivity and efficiency.
 
-## Project Structure
+## Author
+Bhoomika Adimulam
+
