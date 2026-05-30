@@ -22,8 +22,7 @@ This project implements a simple text generation algorithm using Markov Chains i
 
 ## Sample Output
 Generated Text:
-Artificial Intelligence helps in automation. Automation improves productivity and efficiency.
-
+Intelligence helps in automation. Automation improves productivity and efficiency.
 ## Author
 Bhoomika Adimulam
 
